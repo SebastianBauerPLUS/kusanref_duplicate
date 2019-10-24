@@ -1,0 +1,7 @@
+programm teil.dat schritt.dat typ bezeichnung
+
+Finde den kritischen Pfad für den Teil, d.h. die längste Folge
+(bezüglich der Zeit) von Schritten von einem Einzelteil zu dem Teil.
+Gib diese Folge von Schritten in Konstruktionsreihenfolge in die Datei
+kritisch.dat aus.
+
